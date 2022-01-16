@@ -57,7 +57,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/Pinky)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=/https://github.com/Anu00123/Pinky?organization=Anu00123&organization=Anu00123/afnanplk/Pinky)
   
 ```if the 1st deploy button doesnt deploy use this (recomanded to use this 1st)```
  
